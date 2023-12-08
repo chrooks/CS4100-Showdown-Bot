@@ -1,0 +1,818 @@
+{
+  "oumonotype": [
+    {
+      "id": "82345404",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/oumonotype/82345404.json"
+    },
+    {
+      "id": "82345404",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/oumonotype/82345404.json"
+    },
+    {
+      "id": "82345404",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/oumonotype/82345404.json"
+    },
+    {
+      "id": "82345404",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/oumonotype/82345404.json"
+    }
+  ],
+  "anythinggoes": [
+    {
+      "id": "218380995",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/anythinggoes/218380995.json"
+    },
+    {
+      "id": "218380995",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/anythinggoes/218380995.json"
+    },
+    {
+      "id": "218380995",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/anythinggoes/218380995.json"
+    }
+  ],
+  "uberssuspecttest": [
+    {
+      "id": "147833524",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/uberssuspecttest/147833524.json"
+    },
+    {
+      "id": "147833524",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/uberssuspecttest/147833524.json"
+    },
+    {
+      "id": "147833524",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/uberssuspecttest/147833524.json"
+    }
+  ],
+  "doublesou": [
+    {
+      "id": "232753081",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/doublesou/232753081.json"
+    },
+    {
+      "id": "232753081",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/doublesou/232753081.json"
+    },
+    {
+      "id": "232753081",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/doublesou/232753081.json"
+    }
+  ],
+  "gen5ou": [
+    {
+      "id": "59402",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen5ou/59402.json"
+    },
+    {
+      "id": "59402",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen5ou/59402.json"
+    },
+    {
+      "id": "2007637738",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen5ou/2007637738.json"
+    },
+    {
+      "id": "59402",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen5ou/59402.json"
+    }
+  ],
+  "gen3ou": [
+    {
+      "id": "56583",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen3ou/56583.json"
+    },
+    {
+      "id": "56583",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen3ou/56583.json"
+    },
+    {
+      "id": "2007636513",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen3ou/2007636513.json"
+    },
+    {
+      "id": "734218",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen3ou/734218.json"
+    },
+    {
+      "id": "56583",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen3ou/56583.json"
+    }
+  ],
+  "ou": [
+    {
+      "id": "55891",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/ou/55891.json"
+    },
+    {
+      "id": "55891",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/ou/55891.json"
+    },
+    {
+      "id": "55891",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/ou/55891.json"
+    }
+  ],
+  "ubers": [
+    {
+      "id": "54583",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/ubers/54583.json"
+    },
+    {
+      "id": "54583",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/ubers/54583.json"
+    },
+    {
+      "id": "54583",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/ubers/54583.json"
+    }
+  ],
+  "gen9tiershift": [
+    {
+      "id": "2007623204",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9tiershift/2007623204.json"
+    },
+    {
+      "id": "2007621291",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9tiershift/2007621291.json"
+    },
+    {
+      "id": "2007620840",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9tiershift/2007620840.json"
+    },
+    {
+      "id": "2007637996",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9tiershift/2007637996.json"
+    }
+  ],
+  "gen9unratedrandombattle": [
+    {
+      "id": "2007625478",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9unratedrandombattle/2007625478.json"
+    },
+    {
+      "id": "2007620506",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9unratedrandombattle/2007620506.json"
+    },
+    {
+      "id": "2007640141",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9unratedrandombattle/2007640141.json"
+    },
+    {
+      "id": "2007639915",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9unratedrandombattle/2007639915.json"
+    }
+  ],
+  "gen5customgame": [
+    {
+      "id": "2007623517",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen5customgame/2007623517.json"
+    },
+    {
+      "id": "2007636582",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen5customgame/2007636582.json"
+    }
+  ],
+  "gen9randombattle": [
+    {
+      "id": "2007621879",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007621879.json"
+    },
+    {
+      "id": "2007620654",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007620654.json"
+    },
+    {
+      "id": "2007625026",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007625026.json"
+    },
+    {
+      "id": "2007620566",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007620566.json"
+    },
+    {
+      "id": "2007622230",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007622230.json"
+    },
+    {
+      "id": "2007620740",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007620740.json"
+    },
+    {
+      "id": "2007622159",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007622159.json"
+    },
+    {
+      "id": "2007617158",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007617158.json"
+    },
+    {
+      "id": "2007620775",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007620775.json"
+    },
+    {
+      "id": "2007620249",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007620249.json"
+    },
+    {
+      "id": "2007619339",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007619339.json"
+    },
+    {
+      "id": "2007617187",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007617187.json"
+    },
+    {
+      "id": "2007639212",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007639212.json"
+    },
+    {
+      "id": "2007636772",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007636772.json"
+    },
+    {
+      "id": "2007637894",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007637894.json"
+    },
+    {
+      "id": "2007635630",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007635630.json"
+    },
+    {
+      "id": "2007640106",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007640106.json"
+    },
+    {
+      "id": "2007637500",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007637500.json"
+    },
+    {
+      "id": "2007636950",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007636950.json"
+    },
+    {
+      "id": "2007636299",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007636299.json"
+    },
+    {
+      "id": "2007636736",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007636736.json"
+    },
+    {
+      "id": "2007637151",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattle/2007637151.json"
+    },
+    {
+      "id": "2007654194",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randombattle/2007654194.json"
+    },
+    {
+      "id": "2007642378",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randombattle/2007642378.json"
+    },
+    {
+      "id": "2007649364",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randombattle/2007649364.json"
+    },
+    {
+      "id": "2007654724",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randombattle/2007654724.json"
+    },
+    {
+      "id": "2007651936",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randombattle/2007651936.json"
+    },
+    {
+      "id": "2007653219",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randombattle/2007653219.json"
+    },
+    {
+      "id": "2007653531",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randombattle/2007653531.json"
+    },
+    {
+      "id": "2007648456",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randombattle/2007648456.json"
+    },
+    {
+      "id": "2007649126",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randombattle/2007649126.json"
+    },
+    {
+      "id": "2007647840",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randombattle/2007647840.json"
+    },
+    {
+      "id": "2007651011",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randombattle/2007651011.json"
+    }
+  ],
+  "gen8randombattle": [
+    {
+      "id": "2007616819",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen8randombattle/2007616819.json"
+    },
+    {
+      "id": "2007619901",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen8randombattle/2007619901.json"
+    }
+  ],
+  "gen1randombattle": [
+    {
+      "id": "2007624604",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen1randombattle/2007624604.json"
+    },
+    {
+      "id": "2007636763",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen1randombattle/2007636763.json"
+    },
+    {
+      "id": "2007653794",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen1randombattle/2007653794.json"
+    }
+  ],
+  "gen9vgc2023regulationebo3": [
+    {
+      "id": "2007624467",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulationebo3/2007624467.json"
+    },
+    {
+      "id": "2007621985",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulationebo3/2007621985.json"
+    },
+    {
+      "id": "2007619701",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulationebo3/2007619701.json"
+    },
+    {
+      "id": "2007638955",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulationebo3/2007638955.json"
+    },
+    {
+      "id": "2007635351",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulationebo3/2007635351.json"
+    }
+  ],
+  "gen9ubers": [
+    {
+      "id": "2007620529",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9ubers/2007620529.json"
+    }
+  ],
+  "gen9ou": [
+    {
+      "id": "2007622670",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9ou/2007622670.json"
+    },
+    {
+      "id": "2007624063",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9ou/2007624063.json"
+    },
+    {
+      "id": "2007622340",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9ou/2007622340.json"
+    },
+    {
+      "id": "2007621852",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9ou/2007621852.json"
+    },
+    {
+      "id": "2007618324",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9ou/2007618324.json"
+    },
+    {
+      "id": "2007639324",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9ou/2007639324.json"
+    },
+    {
+      "id": "2007641004",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9ou/2007641004.json"
+    },
+    {
+      "id": "2007639826",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9ou/2007639826.json"
+    },
+    {
+      "id": "2007639744",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9ou/2007639744.json"
+    },
+    {
+      "id": "2007632915",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9ou/2007632915.json"
+    },
+    {
+      "id": "2007635000",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9ou/2007635000.json"
+    },
+    {
+      "id": "2007655521",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9ou/2007655521.json"
+    },
+    {
+      "id": "2007652439",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9ou/2007652439.json"
+    },
+    {
+      "id": "2007647951",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9ou/2007647951.json"
+    },
+    {
+      "id": "2007646619",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9ou/2007646619.json"
+    }
+  ],
+  "gen9monotyperandombattle": [
+    {
+      "id": "734214",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9monotyperandombattle/734214.json"
+    },
+    {
+      "id": "734213",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9monotyperandombattle/734213.json"
+    }
+  ],
+  "gen9vgc2023regulatione": [
+    {
+      "id": "2007620970",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulatione/2007620970.json"
+    },
+    {
+      "id": "2007620514",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulatione/2007620514.json"
+    },
+    {
+      "id": "2007620760",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulatione/2007620760.json"
+    },
+    {
+      "id": "2007612078",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulatione/2007612078.json"
+    },
+    {
+      "id": "2007619644",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulatione/2007619644.json"
+    },
+    {
+      "id": "2007639834",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulatione/2007639834.json"
+    },
+    {
+      "id": "2007638655",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulatione/2007638655.json"
+    },
+    {
+      "id": "2007637701",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9vgc2023regulatione/2007637701.json"
+    },
+    {
+      "id": "2007655533",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9vgc2023regulatione/2007655533.json"
+    },
+    {
+      "id": "2007655046",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9vgc2023regulatione/2007655046.json"
+    },
+    {
+      "id": "2007654281",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9vgc2023regulatione/2007654281.json"
+    },
+    {
+      "id": "2007654221",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9vgc2023regulatione/2007654221.json"
+    },
+    {
+      "id": "2007650323",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9vgc2023regulatione/2007650323.json"
+    },
+    {
+      "id": "2007651196",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9vgc2023regulatione/2007651196.json"
+    },
+    {
+      "id": "2007651706",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9vgc2023regulatione/2007651706.json"
+    },
+    {
+      "id": "2007648933",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9vgc2023regulatione/2007648933.json"
+    }
+  ],
+  "gen9freeforallrandombattle": [
+    {
+      "id": "2007608104",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9freeforallrandombattle/2007608104.json"
+    },
+    {
+      "id": "2007624759",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9freeforallrandombattle/2007624759.json"
+    }
+  ],
+  "gen9randomdoublesbattle": [
+    {
+      "id": "2007619753",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randomdoublesbattle/2007619753.json"
+    },
+    {
+      "id": "2007617594",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randomdoublesbattle/2007617594.json"
+    },
+    {
+      "id": "2007637829",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randomdoublesbattle/2007637829.json"
+    },
+    {
+      "id": "2007653607",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randomdoublesbattle/2007653607.json"
+    },
+    {
+      "id": "2007647665",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randomdoublesbattle/2007647665.json"
+    }
+  ],
+  "gen9anythinggoes": [
+    {
+      "id": "2007620804",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9anythinggoes/2007620804.json"
+    },
+    {
+      "id": "2007638843",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9anythinggoes/2007638843.json"
+    },
+    {
+      "id": "2007637158",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9anythinggoes/2007637158.json"
+    },
+    {
+      "id": "2007635989",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9anythinggoes/2007635989.json"
+    }
+  ],
+  "gen9monotype": [
+    {
+      "id": "2007619595",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9monotype/2007619595.json"
+    }
+  ],
+  "gen9nationaldexubers": [
+    {
+      "id": "2007619203",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9nationaldexubers/2007619203.json"
+    }
+  ],
+  "gen9nationaldex": [
+    {
+      "id": "2007611448",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9nationaldex/2007611448.json"
+    },
+    {
+      "id": "2007618550",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9nationaldex/2007618550.json"
+    },
+    {
+      "id": "2007619102",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9nationaldex/2007619102.json"
+    },
+    {
+      "id": "2007638914",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9nationaldex/2007638914.json"
+    },
+    {
+      "id": "2007634877",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9nationaldex/2007634877.json"
+    }
+  ],
+  "gen9customgame": [
+    {
+      "id": "2007610568",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9customgame/2007610568.json"
+    },
+    {
+      "id": "2007635764",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9customgame/2007635764.json"
+    },
+    {
+      "id": "2007634044",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9customgame/2007634044.json"
+    }
+  ],
+  "gen8randomdoublesbattle": [
+    {
+      "id": "2007615303",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen8randomdoublesbattle/2007615303.json"
+    }
+  ],
+  "gen6randombattle": [
+    {
+      "id": "2007619070",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen6randombattle/2007619070.json"
+    }
+  ],
+  "gen9nationaldexmonotype": [
+    {
+      "id": "2007618476",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9nationaldexmonotype/2007618476.json"
+    },
+    {
+      "id": "2007635434",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9nationaldexmonotype/2007635434.json"
+    }
+  ],
+  "gen9randombattleblitz": [
+    {
+      "id": "2007641057",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9randombattleblitz/2007641057.json"
+    },
+    {
+      "id": "2007657381",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9randombattleblitz/2007657381.json"
+    }
+  ],
+  "gen3zu": [
+    {
+      "id": "2007630025",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen3zu/2007630025.json"
+    }
+  ],
+  "gen9nu": [
+    {
+      "id": "734219",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9nu/734219.json"
+    }
+  ],
+  "gen9challengecup6v6": [
+    {
+      "id": "2007627863",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9challengecup6v6/2007627863.json"
+    }
+  ],
+  "gen9battlestadiumsinglesregulatione": [
+    {
+      "id": "2007640007",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9battlestadiumsinglesregulatione/2007640007.json"
+    }
+  ],
+  "gen9paldeadexdraft": [
+    {
+      "id": "2007624825",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9paldeadexdraft/2007624825.json"
+    },
+    {
+      "id": "2007626597",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9paldeadexdraft/2007626597.json"
+    }
+  ],
+  "gen6ou": [
+    {
+      "id": "2007631279",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen6ou/2007631279.json"
+    }
+  ],
+  "gen7ou": [
+    {
+      "id": "2007636330",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen7ou/2007636330.json"
+    }
+  ],
+  "gen9uu": [
+    {
+      "id": "2007633036",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen9uu/2007633036.json"
+    }
+  ],
+  "gen6purehackmons": [
+    {
+      "id": "2007633301",
+      "filePath": "/home/chrooks/school/cs4100/final/replay-crawler/battle-logs/gen6purehackmons/2007633301.json"
+    }
+  ],
+  "gen8monotype": [
+    {
+      "id": "2007655664",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen8monotype/2007655664.json"
+    }
+  ],
+  "gen9nationaldexdoubles": [
+    {
+      "id": "2007654171",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9nationaldexdoubles/2007654171.json"
+    },
+    {
+      "id": "2007650633",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9nationaldexdoubles/2007650633.json"
+    }
+  ],
+  "gen4doublescustomgame": [
+    {
+      "id": "2007652479",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen4doublescustomgame/2007652479.json"
+    }
+  ],
+  "gen9ubersuu": [
+    {
+      "id": "734221",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9ubersuu/734221.json"
+    }
+  ],
+  "gen91v1": [
+    {
+      "id": "734222",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen91v1/734222.json"
+    }
+  ],
+  "gen9sketchmons": [
+    {
+      "id": "2007654439",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9sketchmons/2007654439.json"
+    },
+    {
+      "id": "2007652980",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9sketchmons/2007652980.json"
+    },
+    {
+      "id": "2007652555",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9sketchmons/2007652555.json"
+    }
+  ],
+  "gen9doublesou": [
+    {
+      "id": "2007654511",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9doublesou/2007654511.json"
+    },
+    {
+      "id": "2007639210",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9doublesou/2007639210.json"
+    }
+  ],
+  "gen9nationaldexuu": [
+    {
+      "id": "2007653269",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9nationaldexuu/2007653269.json"
+    }
+  ],
+  "gen9natdexdraft": [
+    {
+      "id": "2007652051",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9natdexdraft/2007652051.json"
+    }
+  ],
+  "gen9terapreviewnatdexdraft": [
+    {
+      "id": "2007640593",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9terapreviewnatdexdraft/2007640593.json"
+    }
+  ],
+  "gen9doublesuu": [
+    {
+      "id": "2007653721",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9doublesuu/2007653721.json"
+    }
+  ],
+  "gen9metronomebattle": [
+    {
+      "id": "2007654707",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9metronomebattle/2007654707.json"
+    }
+  ],
+  "gen8ou": [
+    {
+      "id": "2007653552",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen8ou/2007653552.json"
+    }
+  ],
+  "gen9natdex6v6doublesdraft": [
+    {
+      "id": "2007646363",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9natdex6v6doublesdraft/2007646363.json"
+    }
+  ],
+  "gen9partnersincrimerandombattle": [
+    {
+      "id": "2007654714",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9partnersincrimerandombattle/2007654714.json"
+    }
+  ],
+  "gen4randombattle": [
+    {
+      "id": "2007647329",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen4randombattle/2007647329.json"
+    }
+  ],
+  "gen7anythinggoes": [
+    {
+      "id": "2007651089",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen7anythinggoes/2007651089.json"
+    }
+  ],
+  "gen9doublescustomgame": [
+    {
+      "id": "2007644900",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen9doublescustomgame/2007644900.json"
+    }
+  ],
+  "gen6draft": [
+    {
+      "id": "2007637710",
+      "filePath": "/home/chrooks/school/cs4100-showdown-bot/battle-logs/gen6draft/2007637710.json"
+    }
+  ]
+}
