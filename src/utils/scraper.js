@@ -34,7 +34,7 @@ const fs = require("fs");
 const path = require("path");
 
 async function updateMetadata(format, id, filePath) {
-  const metadataPath = path.join(__dirname, "battle-logs", "metadata.json");
+  const metadataPath = path.join(__dirname, "..",  "data", "metadata.json");
 
   let metadata = {};
   if (fs.existsSync(metadataPath)) {
@@ -49,13 +49,13 @@ async function updateMetadata(format, id, filePath) {
 
   fs.writeFileSync(metadataPath, JSON.stringify(metadata, null, 2));
 }
-
 async function downloadJSON(url, format, id) {
   try {
     const response = await axios.get(url);
     const data = response.data;
 
-    const dirPath = path.join(__dirname, "battle-logs", format);
+    // Adjust the directory path to target '../data/battle-logs/'
+    const dirPath = path.join(__dirname, "..", "data", "battle-logs", format);
     if (!fs.existsSync(dirPath)) {
       fs.mkdirSync(dirPath, { recursive: true });
     }
@@ -69,6 +69,7 @@ async function downloadJSON(url, format, id) {
     console.error("Error downloading file:", error);
   }
 }
+
 
 function extractFormatAndId(url) {
   // Updated regex to optionally include query parameters in the URL
