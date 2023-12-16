@@ -3,3 +3,4 @@ poke-env
 tabulate
 keras-rl2
 tensorflow
+matplotlib

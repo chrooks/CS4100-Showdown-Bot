@@ -9,18 +9,25 @@ Pokemon, often perceived as a simple children's game, actually harbors a depth a
 
 Drawing inspiration from how AI has revolutionized strategy games like Chess, Tic-Tac-Toe, and Go, surpassing human expertise, this project aims to explore the potential of AI in the realm of Pokemon, a turn-based strategy game. The goal is to apply the insights gained throughout my academic journey in computer science to build a bot that can outplay even the most skilled Pokemon trainers, including myself.
 
-To setup a local Showdown server:
-`
+## Getting Started
+First, setup a local Showdown server:
+```
 git clone https://github.com/smogon/pokemon-showdown.git
 cd pokemon-showdown
 npm install
 cp config/config-example.js config/config.js
 node pokemon-showdown start --no-security
-`
+```
 
-Install requirements
+Then, install requirements
 `pip install -r requirements.txt`
 
+Next, you'll have to solve a dependency issue:
+Open `~/.local/lib/python3.8/site-packages/rl/callbacks.py` in your favorite text editor
+And change: `from tensorflow.keras import __version__ as KERAS_VERSION`
+to: `from keras import __version__ as KERAS_VERSION`
 
-Then run the file:
+Finally, run the file:
 `python showdown_rl_trainer.py`
+
+You'll get a bunch of warnings from tensorflow. Ignore them, the bot should begin training shortly.
