@@ -1,0 +1,49 @@
+I've cleared out the contents of my calc_reward function, and replaced it with comments detailing what behaviors I want rewarded.
+The behaviors after the line "### Negative ###" should receive a negative reward.
+The behaviors wit the highest magnitude of reward are at the top.
+This will require understanding mainly the AbstractBattle & Pokemon classes to retrieve the necessary data to make these calculations
+
+Implement each of these, starting with "Won game" and "Lost game"
+
+    def calc_reward(self, prev_turn: AbstractBattle, current_turn: AbstractBattle):
+
+# Won game
+
+# Fainted opposing Pokemon
+
+# Did a lot of damage
+
+# Didn't take a lot of damage
+
+# Switched to a pokemon with a better defensive type matchup
+
+# Switched to a pokemon with better defensive stats, (i.e. swithcing into a Pokemon w/ high SpDef against something with high SpAtk)
+
+# Inflicted status
+
+# Put out entry hazards
+
+# Setup screens
+
+### Negative ###
+
+# Lost game
+
+# Allowed pokemon to be Fainted
+
+# Didnt do a lot of damage OR did no damage
+
+# Took a lot of damage
+
+# Switched into a Pokemon with a worse defensive type matchup
+
+# Switched into a Pokemon with worse defensive stats
+
+# Received status
+
+# Received entry hazards
+
+        return
+
+
+

@@ -1,0 +1,24 @@
+Baseline results:
+Average of Average Performance: 0.2557
+Average of Standard Deviation: 0.2653
+Average of Weighted Average Performance: 0.0183
+
+Training Opponent Change results:
+Average of Average Performances: 0.1510
+Average of Standard Deviation: 0.1603
+Average of Weighted Average Performances: 0.0800
+
+Updated Reward Function results:
+Average of Average Performance: 0.1623
+Average of Standard Deviation: 0.1883
+Average of Weighted Average Performance: 0.0533
+
+Switch out Dueling DQN for Regular DQN results:
+Average of Average Performance: 0.1000
+Average of Standard Deviation: 0.0917
+Average of Weighted Average Performance: 0.0867
+
+Increase the Learning Rate results:
+Average of Average Performance: 0.2200
+Average of Standard Deviation: 0.2277
+Average of Weighted Average Performance: 0.0167

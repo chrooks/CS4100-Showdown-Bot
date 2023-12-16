@@ -1,0 +1,15 @@
+
+Cross evaluation of DQN with baselines:
+------------------  ------  --------------  ------------------  ------------------
+-                   Dojo 3  RandomPlayer 4  MaxBasePowerPlay 1  SimpleHeuristics 1
+Dojo 3                      0.58            0.22                0.0
+RandomPlayer 4      0.42                    0.1                 0.02
+MaxBasePowerPlay 1  0.78    0.9                                 0.02
+SimpleHeuristics 1  1.0     0.98            0.98
+------------------  ------  --------------  ------------------  ------------------
+
+Average Performance: 0.267
+Standard Deviation: 0.239
+
+Weighted Average Performance: 0.016
+
