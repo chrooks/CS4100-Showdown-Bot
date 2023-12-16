@@ -40,7 +40,7 @@ BATTLE_FORMAT = "gen8randombattle"
 TRAINING_STEPS = 10000
 EVAL_CHALLENGES = 50
 
-SAVE_TO_FILE = True
+SAVE_TO_FILE = False
 RESULT_FPATH = "./results"
 
 # Use environment variables if they exist
