@@ -22,10 +22,11 @@ node pokemon-showdown start --no-security
 Then, install requirements
 `pip install -r requirements.txt`
 
-Next, you'll have to solve a dependency issue:
-Open `~/.local/lib/python3.8/site-packages/rl/callbacks.py` in your favorite text editor
-And change: `from tensorflow.keras import __version__ as KERAS_VERSION`
-to: `from keras import __version__ as KERAS_VERSION`
+Next, you'll have to solve a dependency issue: 
+
+Open `~/.local/lib/python3.8/site-packages/rl/callbacks.py` in your favorite text editor.
+
+And change `from tensorflow.keras import __version__ as KERAS_VERSION` to `from keras import __version__ as KERAS_VERSION`
 
 Finally, run the file:
 `python showdown_rl_trainer.py`
