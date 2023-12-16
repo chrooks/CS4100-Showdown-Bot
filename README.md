@@ -19,7 +19,7 @@ node pokemon-showdown start --no-security
 `
 
 Install requirements
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 Then run the file:
